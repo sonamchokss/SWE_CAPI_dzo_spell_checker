@@ -28,9 +28,9 @@ It verifies individual words or groups of words against the dictionary, flagging
 I used set in order to store the correct words of the dictionary to ensure quick and efficient reference, providing an overview of correctly spelled words, while input file is used to processed line by line, and any words that are identified as errors are stored in a tuple list for further analysis and correction.
 
 ## Algorithms
-# Symmetric key algorithms 
+### Symmetric key algorithms 
 These algorithms use the same key use different keys for encryption and decryption. One key is public, and the other is private.
-# Control algorithms
+### Control algorithms
 These algorithms control the behavior of a system
-# Hash algorithms
+### Hash algorithms
 These algorithms transform data into a fixed-size string of characters, often used to verify data integrity or to create digital signatures
